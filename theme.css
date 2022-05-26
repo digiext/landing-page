@@ -1,0 +1,19 @@
+.bg
+{
+    background-color: #1F2937;
+}
+
+.logo
+{
+    font-family: 'Roboto', serif;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight:bolder;
+}
+
+.navlink
+{
+    font-family: 'Roboto', serif;
+    font-size: 18px;
+    color:#E5E7EB;
+}
